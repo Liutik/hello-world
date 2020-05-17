@@ -1,2 +1,2 @@
 # hello-world
-hello everyone!
+I'm Liu Tik,a student from China.
